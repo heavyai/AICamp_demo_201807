@@ -8,7 +8,7 @@ cffi=1.11.5=py36h9745a5d_0
 chardet=3.0.4=py36h0f667ec_1
 conda=4.5.5=py36_0
 conda-env=2.6.0=h36134e3_1
-cryptography=2.2.2=py36h14c3975_0
+cryptography>=2.3
 idna=2.6=py36h82fb2a8_1
 libedit=3.1=heed3624_0
 libffi=3.2.1=hd88cf55_4
@@ -23,7 +23,7 @@ pyopenssl=17.5.0=py36h20ba746_0
 pysocks=1.6.8=py36_0
 python=3.6.5=hc3d631a_0
 readline=7.0=ha6073c6_4
-requests=2.18.4=py36he2e5f8d_1
+requests>=2.20.0
 ruamel_yaml=0.15.35=py36h14c3975_1
 setuptools=39.0.1=py36_0
 six=1.11.0=py36h372c433_1
